@@ -1,0 +1,23 @@
+.home-container {
+  background-image: url('../../assets/IMG_9303.JPG');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
